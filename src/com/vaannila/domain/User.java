@@ -6,6 +6,7 @@ package com.vaannila.domain;
 public class User {
 
 	private String name;
+	private String city;
 	private String password;
 	private String gender;
 	private String country;
